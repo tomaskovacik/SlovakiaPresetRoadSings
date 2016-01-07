@@ -1,0 +1,382 @@
+A1a.png,A1a,A1a,zákruta vpravo,no
+A1b.png,A1b,A1b,zákruta vľavo,no
+A2a.png,A2a,A2a,dvojitá zákruta::coma:: prvá vpravo,no
+A2b.png,A2b,A2b,dvojitá zákruta::coma:: prvá vľavo,no
+A3a.png,A3a,A3a,nebezpečné klesanie,no
+A3b.png,A3b,A3b,nebezpečné stúpanie,no
+A4a.png,A4a,A4a,zúžená vozovka z oboch strán,no
+A4a_alt.png,A4a_alt,A4a,ako dočasná dopravná značka,no
+A4b.png,A4b,A4b,zúžená vozovka sprava,no
+A4b_alt.png,A4b_alt,A4b,ako dočasná dopravná značka,no
+A4c.png,A4c,A4c,zúžená vozovka zľava,no
+A4c_alt.png,A4c_alt,A4c,ako dočasná dopravná značka,no
+A5.png,A5,A5,nerovnosť vozovky,no
+A5_alt.png,A5_alt,A5,ako dočasná dopravná značka,no
+A6.png,A6,A6,spomaľovací prah,no
+A7.png,A7,A7,nebezpečná krajnica,no
+A7_alt.png,A7_alt,A7,ako dočasná dopravná značka,no
+A8.png,A8,A8,nebezpečenstvo šmyku,no
+A8_alt.png,A8_alt,A8,ako dočasná dopravná značka,no
+A9.png,A9,A9,sneh alebo poľadovica,no
+A10.png,A10,A10,hmla,no
+A11.png,A11,A11,odletujúci štrk,no
+A11_alt.png,A11_alt,A11,ako dočasná dopravná značka,no
+A12.png,A12,A12,svetelné signály,no
+A12_alt.png,A12_alt,A12,ako dočasná dopravná značka,no
+A13.png,A13,A13,priechod pre chodcov,no
+A14.png,A14,A14,pozor::coma:: chodci,no
+A15.png,A15,A15,pozor::coma:: deti,no
+A16.png,A16,A16,pozor::coma:: cyklisti,no
+A17.png,A17,A17,pozor::coma:: zvieratá,no
+A18.png,A18,A18,pozor::coma:: zver,no
+A18_alt.png,A18_alt,A18,pozor::coma:: zver,no
+A19.png,A19,A19,práca na ceste,no
+A19_alt.png,A19_alt,A19,ako dočasná dopravná značka,no
+A20.png,A20,A20,padajúce kamene,no
+A21.png,A21,A21,obojsmerná premávka,no
+A21_alt.png,A21_alt,A21,ako dočasná dopravná značka,no
+A22.png,A22,A22,pozor::coma:: električka,no
+A23.png,A23,A23,kolóny,no
+A23_alt.png,A23_alt,A23,ako dočasná dopravná značka,no
+A24.png,A24,A24,tunel,no
+A25.png,A25,A25,železničné priecestie so závorami,no
+A26.png,A26,A26,železničné priecestie bez závor,no
+A27a.png,A27a,A27a,návestná tabuľa ľavá (240 m),no
+A27b.png,A27b,A27b,návestná tabuľa pravá (240 m),no
+A28a.png,A28a,A28a,návestná tabuľa ľavá (160 m),no
+A28b.png,A28b,A28b,návestná tabuľa pravá (160 m),no
+A29a.png,A29a,A29a,návestná tabuľa ľavá (80 m),no
+A29b.png,A29b,A29b,návestná tabuľa pravá (80 m),no
+A30a.png,A30a,A30a,výstražný kríž pre železničné priecestie jednokoľajové,no
+A30b.png,A30b,A30b,výstražný kríž pre železničné priecestie viackoľajové,no
+A31.png,A31,A31,pozor::coma:: lietadlá,no
+A32.png,A32,A32,bočný vietor,no
+A33.png,A33,A33,nehoda,no
+A34.png,A34,A34,iné nebezpečenstvo,no
+A34_alt.png,A34_alt,A34,ako dočasná dopravná značka,no
+P1.png,P1,P1,daj prednosť v jazde,no
+P2.png,P2,P2,stoj::coma:: daj prednosť v jazde,no
+P3.png,P3,P3,daj prednosť v jazde električke,no
+P4.png,P4,P4,križovatka,no
+P5.png,P5,P5,križovatka s vedľajšou cestou,no
+P6.png,P6,P6,križovatka s vedľajšou cestou (vzor),no
+P6_alt.png,P6_alt,P6,križovatka s vedľajšou cestou (vzor),no
+P7.png,P7,P7,okružná križovatka,no
+P8.png,P8,P8,hlavná cesta,no
+P9.png,P9,P9,koniec hlavnej cesty,no
+P10.png,P10,P10,prednosť protiidúcich vozidiel,no
+P11.png,P11,P11,prednosť pred protiidúcimi vozidlami,no
+P12.png,P12,P12,tvar križovatky (vzor),yes
+P13.png,P13,P13,tvar križovatky (vzor),yes
+P14.png,P14,P14,tvar križovatky (vzor),yes
+P15.png,P15,P15,tvar križovatky (vzor),yes
+B1.png,B1,B1,zákaz vjazdu všetkých vozidiel (v oboch smeroch),no
+B2.png,B2,B2,zákaz vjazdu všetkých vozidiel,no
+B3.png,B3,B3,zákaz vjazdu všetkých motorových vozidiel,no
+B4.png,B4,B4,zákaz vjazdu všetkých motorových vozidiel s výnimkou motocyklov bez postranného vozíka,no
+B5.png,B5,B5,zákaz vjazdu osobných automobilov,no
+B6.png,B6,B6,zákaz vjazdu nákladných automobilov,no
+B7.png,B7,B7,zákaz vjazdu autobusov,no
+B8.png,B8,B8,zákaz vjazdu motocyklov,no
+B9.png,B9,B9,zákaz vjazdu traktorov,no
+B10.png,B10,B10,zákaz vjazdu mopedov,no
+B11.png,B11,B11,zákaz vjazdu bicyklov,no
+B12.png,B12,B12,zákaz vjazdu jazdcov na koňoch,no
+B13.png,B13,B13,zákaz vstupu chodcov,no
+B14.png,B14,B14,zákaz vstupu korčuliarov,no
+B15.png,B15,B15,zákaz vjazdu záprahových vozidiel,no
+B16.png,B16,B16,zákaz vjazdu ručných vozíkov,no
+B17.png,B17,B17,zákaz vjazdu motorových vozidiel s prívesmi,no
+B18.png,B18,B18,zákaz vjazdu vyznačených vozidiel,no
+B19.png,B19,B19,zákaz jazdy motorových vozidiel vo vzdialenosti kratšej,no
+B20.png,B20,B20,zákaz vjazdu vozidiel alebo súprav vozidiel::coma:: ktorých dĺžka presahuje vyznačenú hranicu,no
+B21.png,B21,B21,zákaz vjazdu vozidiel prepravujúcich nebezpečné veci,no
+B22.png,B22,B22,zákaz vjazdu vozidiel prepravujúcich náklad::coma:: ktorý môže spôsobiť znečistenie vody,no
+B23.png,B23,B23,zákaz vjazdu vozidiel::coma:: ktorých šírka presahuje vyznačenú hranicu,no
+B24.png,B24,B24,zákaz vjazdu vozidiel::coma:: ktorých výška presahuje vyznačenú hranicu,no
+B25.png,B25,B25,zákaz vjazdu vozidiel::coma:: ktorých okamžitá hmotnosť presahuje vyznačenú hranicu,no
+B26.png,B26,B26,zákaz vjazdu vozidiel::coma:: ktorých okamžitá hmotnosť pripadajúca na nápravu presahuje vyznačenú hranicu,no
+B27a.png,B27a,B27a,zákaz odbočovania vpravo,no
+B27b.png,B27b,B27b,zákaz odbočovania vľavo,no
+B28.png,B28,B28,zákaz otáčania,no
+B29a.png,B29a,B29a,zákaz predchádzania,no
+B29b.png,B29b,B29b,koniec zákazu predchádzania,no
+B30a.png,B30a,B30a,zákaz predchádzania pre nákladné automobily,no
+B30b.png,B30b,B30b,koniec zákazu predchádzania pre nákladné automobily,no
+B31a.png,B31a,B31a,najvyššia dovolená rýchlosť,no
+B31b.png,B31b,B31b,koniec najvyššej dovolenej rýchlosti,no
+B32a.png,B32a,B32a,zákaz zvukových výstražných zariadení,no
+B32b.png,B32b,B32b,koniec zákazu zvukových výstražných zariadení,no
+B33.png,B33,B33,zákaz státia,no
+B34.png,B34,B34,zákaz zastavenia,no
+B35.png,B35,B35,zákaz státia v nepárnych dňoch,no
+B36.png,B36,B36,zákaz státia v párnych dňoch,no
+B37.png,B37,B37,iný zákaz,no
+B37_alt.png,B37_alt,B37,iný zákaz,no
+B37_alt2.png,B37_alt2,B37,iný zákaz,no
+B37_alt3.png,B37_alt3,B37,iný zákaz,no
+B38.png,B38,B38,povinnosť zastaviť vozidlo,no
+B38_alt.png,B38_alt,B38,povinnosť zastaviť vozidlo,no
+B38_alt2.png,B38_alt2,B38,povinnosť zastaviť vozidlo,no
+B39.png,B39,B39,koniec viacerých zákazov,no
+C1.png,C1,C1,prikázaný smer jazdy priamo,no
+C2.png,C2,C2,prikázaný smer jazdy vpravo,no
+C3.png,C3,C3,prikázaný smer jazdy vľavo,no
+C4a.png,C4a,C4a,prikázaný smer jazdy vpravo a vľavo,no
+C4b.png,C4b,C4b,prikázaný smer jazdy priamo a vpravo,no
+C4c.png,C4c,C4c,prikázaný smer jazdy priamo a vľavo,no
+C5.png,C5,C5,prikázaný smer otáčania,no
+C6a.png,C6a,C6a,prikázaný smer obchádzania vpravo,no
+C6b.png,C6b,C6b,prikázaný smer obchádzania vľavo,no
+C6c.png,C6c,C6c,prikázaný smer obchádzania vpravo a vľavo,no
+C7.png,C7,C7,kruhový objazd,no
+C8.png,C8,C8,cestička pre cyklistov,no
+C9.png,C9,C9,cestička pre chodcov,no
+C10.png,C10,C10,cestička pre korčuliarov,no
+C11.png,C11,C11,cestička pre jazdcov na koňoch,no
+C12.png,C12,C12,cestička pre vyznačených užívateľov,no
+C13.png,C13,C13,cestička pre vyznačených užívateľov,no
+C14.png,C14,C14,použiť protisklzové reťaze,no
+C15.png,C15,C15,najnižšia dovolená rýchlosť,no
+C16.png,C16,C16,iný príkaz,no
+C16_alt.png,C16_alt,C16,iný príkaz,no
+C16_alt2.png,C16_alt2,C16,iný príkaz,no
+C16_alt3.png,C16_alt3,C16,iný príkaz,no
+C17.png,C17,C17,rozsvieť svetlá,no
+C18.png,C18,C18,koniec príkazu,no
+C19.png,C19,C19,prikázaný smer prepravy vyznačených vozidiel a vecí,no
+C20.png,C20,C20,usporiadanie jazdných pruhov,no
+C20_alt.png,C20_alt,C20,ako dočasná dopravná značka,no
+C21.png,C21,C21,usporiadanie jazdných pruhov,no
+C21_alt.png,C21_alt,C21,ako dočasná dopravná značka,no
+C22a.png,C22a,C22a,zvýšenie počtu jazdných pruhov,no
+C22a_alt.png,C22a_alt,C22a,ako dočasná dopravná značka,no
+C22b.png,C22b,C22b,zníženie počtu jazdných pruhov,no
+C22b_alt.png,C22b_alt,C22b,ako dočasná dopravná značka,no
+C22c.png,C22c,C22c,zvýšenie počtu jazdných pruhov pre pomalé vozidlá,no
+C22c_alt.png,C22c_alt,C22c,ako dočasná dopravná značka,no
+C23a.png,C23a,C23a,obmedzenie v jazdných pruhoch,no
+C23a_alt.png,C23a_alt,C23a,ako dočasná dopravná značka,no
+C23b.png,C23b,C23b,obmedzenie v jazdných pruhoch,no
+C23b_alt.png,C23b_alt,C23b,ako dočasná dopravná značka,no
+C24a.png,C24a,C24a,vyhradený jazdný pruh,no
+C24b.png,C24b,C24b,koniec vyhradeného jazdného pruhu,no
+C25.png,C25,C25,radenie jazdných pruhov pred križovatkou,no
+C25_alt.png,C25_alt,C25,ako dočasná dopravná značka,no
+C26.png,C26,C26,zmena smeru jazdy,no
+C27.png,C27,C27,obchádzanie električky,no
+C28.png,C28,C28,zmena smeru jazdy,no
+C29.png,C29,C29,zmena smeru jazdy,no
+C30.png,C30,C30,striedavé radenie,no
+IP1.png,IP1,IP1,okruh,no
+IP2.png,IP2,IP2,zmena smeru okruhu,no
+IP3a.png,IP3a,IP3a,jednosmerná premávka,no
+IP3a_alt.png,IP3a_alt,IP3a,jednosmerná premávka,no
+IP3b.png,IP3b,IP3b,jednosmerná premávka,no
+IP4.png,IP4,IP4,slepá pozemná komunikácia,no
+IP5.png,IP5,IP5,návesť pred slepou pozemnou komunikáciou,no
+IP5_alt.png,IP5_alt,IP5,návesť pred slepou pozemnou komunikáciou,no
+IP6.png,IP6,IP6,priechod pre chodcov,no
+IP6_alt.png,IP6_alt,IP6,priechod pre chodcov,no
+IP7.png,IP7,IP7,priechod pre cyklistov,no
+IP7_alt.png,IP7_alt,IP7,priechod pre cyklistov,no
+IP8.png,IP8,IP8,spomaľovací prah,no
+IP9.png,IP9,IP9,podchod alebo nadchod,no
+IP10.png,IP10,IP10,odporúčaná rýchlosť,no
+IP11.png,IP11,IP11,núdzová odstavná plocha,no
+IP12.png,IP12,IP12,parkovisko,no
+IP13a.png,IP13a,IP13a,parkovisko (kolmé státie),no
+IP13b.png,IP13b,IP13b,parkovisko (šikmé státie),no
+IP13c.png,IP13c,IP13c,parkovisko (pozdĺžne státie),no
+IP14a.png,IP14a,IP14a,parkovisko (státie na chodníku kolmé alebo šikmé),no
+IP14b.png,IP14b,IP14b,parkovisko (státie na chodníku pozdĺžne),no
+IP15a.png,IP15a,IP15a,parkovisko (čiastočné státie na chodníku kolmé alebo šikmé),no
+IP15b.png,IP15b,IP15b,parkovisko (čiastočné státie na chodníku pozdĺžne),no
+IP16.png,IP16,IP16,vyhradené parkovisko,no
+IP17a.png,IP17a,IP17a,platené parkovisko (parkovacie miesta s plateným státím),no
+IP17b.png,IP17b,IP17b,platené parkovisko (parkovacie miesta s regulovaným státím),no
+IP18.png,IP18,IP18,kryté parkovisko,no
+IP19.png,IP19,IP19,parkovisko P+R,no
+IP20a.png,IP20a,IP20a,stanovište polície,no
+IP20b.png,IP20b,IP20b,stanovište taxi,no
+IP21a.png,IP21a,IP21a,tunel,no
+IP21a_alt.png,IP21a_alt,IP21a,tunel (s jedným tubusom),no
+IP21a_alt2.png,IP21a_alt2,IP21a,tunel (s názvom),no
+IP21b.png,IP21b,IP21b,koniec tunela,no
+IP21b_alt.png,IP21b_alt,IP21b,koniec tunela (s jedným tubusom),no
+IP21b_alt2.png,IP21b_alt2,IP21b,koniec tunela (s názvom),no
+IP22a.png,IP22a,IP22a,Rýchlostná cesta,no
+IP22b.png,IP22b,IP22b,Koniec rýchlostnej cesty,no
+IP23a.png,IP23a,IP23a,Diaľnica,no
+IP23b_alt.png,IP23b_alt,IP23b,Koniec diaľnice,no
+IP24a.png,IP24a,IP24a,zóna s dopravným obmedzením,no
+IP24b.png,IP24b,IP24b,koniec zóny s dopravným obmedzením,no
+IP25a.png,IP25a,IP25a,pešia zóna,no
+IP25b.png,IP25b,IP25b,koniec pešej zóny,no
+IP26a.png,IP26a,IP26a,školská zóna,no
+IP26b.png,IP26b,IP26b,koniec školskej zóny,no
+IP27a.png,IP27a,IP27a,zóna s plateným parkovaním,no
+IP27b.png,IP27b,IP27b,koniec zóny s plateným parkovaním,no
+IP28a.png,IP28a,IP28a,obytná zóna,no
+IP28b.png,IP28b,IP28b,koniec obytnej zóny,no
+IP29.png,IP29,IP29,úniková zóna,no
+IP30.png,IP30,IP30,zmena miestnej úpravy,no
+IP31a.png,IP31a,IP31a,hmlové body,no
+IP31b.png,IP31b,IP31b,hmlové body,no
+IP31c.png,IP31c,IP31c,hmlové body,no
+IP32.png,IP32,IP32,bezpečná vzdialenosť,no
+IP33a.png,IP33a,IP33a,všeobecne najvyššie dovolené rýchlosti,no
+IP33b.png,IP33b,IP33b,všeobecné informácie o povinnosti úhrady,no
+IP34a.png,IP34a,IP34a,všeobecné informácie o dopravných obmedzeniach,no
+IP34b.png,IP34b,IP34b,všeobecné informácie o dopravných obmedzeniach,no
+IP34c.png,IP34c,IP34c,všeobecné informácie o dopravných obmedzeniach,no
+IS1a.png,IS1a,IS1a,návesť pred križovatkou,no
+IS1b.png,IS1b,IS1b,návesť pred križovatkou,no
+IS2.png,IS2,IS2,návesť pred križovatkou,no
+IS3.png,IS3,IS3,návesť pred križovatkou,no
+IS4.png,IS4,IS4,návesť pred križovatkou,no
+IS5a.png,IS5a,IS5a,návesť pred križovatkou,no
+IS5b.png,IS5b,IS5b,návesť pred križovatkou,no
+IS6.png,IS6,IS6,návesť pred križovatkou,no
+IS7a.png,IS7a,IS7a,smerová tabuľa,no
+IS7b.png,IS7b,IS7b,výjazd,no
+IS8.png,IS8,IS8,diaľková návesť,no
+IS9.png,IS9,IS9,návesť pred križovatkou,no
+IS10.png,IS10,IS10,návesť pred križovatkou,no
+IS11.png,IS11,IS11,návesť pred kultúrnym alebo turistickým cieľom,no
+IS12.png,IS12,IS12,návesť pred križovatkou s obmedzením,no
+IS13.png,IS13,IS13,návesť pred križovatkou s obmedzením,no
+IS14.png,IS14,IS14,návesť pred križovatkou s obmedzením,no
+IS15.png,IS15,IS15,návesť pred obchádzkou,no
+IS16.png,IS16,IS16,návesť pred obchádzkou (odklonom),no
+IS17a.png,IS17a,IS17a,smerová tabuľa (s jedným cieľom),no
+IS17b.png,IS17b,IS17b,smerová tabuľa (s jedným cieľom),no
+IS18a.png,IS18a,IS18a,smerová tabuľa (s dvomi cieľmi),no
+IS18b.png,IS18b,IS18b,smerová tabuľa (s dvomi cieľmi),no
+IS19a.png,IS19a,IS19a,smerová tabuľa pre príjazd k diaľnici,no
+IS19b.png,IS19b,IS19b,smerová tabuľa pre príjazd k diaľnici,no
+IS20a.png,IS20a,IS20a,smerová tabuľa pre príjazd k rýchlostnej ceste,no
+IS20b.png,IS20b,IS20b,smerová tabuľa pre príjazd k rýchlostnej ceste,no
+IS21.png,IS21,IS21,smerová tabuľa k miestnemu cieľu,no
+IS22a.png,IS22a,IS22a,smerová tabuľa k inému cieľu,no
+IS22b.png,IS22b,IS22b,smerová tabuľa k inému cieľu,no
+IS23a.png,IS23a,IS23a,smerová tabuľa ku kultúrnemu alebo turistickému cieľu,no
+IS23b.png,IS23b,IS23b,smerová tabuľa ku komunálnemu cieľu,no
+IS24.png,IS24,IS24,smerová tabuľa ku komunálnemu cieľu,no
+IS25.png,IS25,IS25,smerová tabuľa na vyznačenie obchádzky,no
+IS26.png,IS26,IS26,smerová tabuľa na vyznačenie obchádzky,no
+IS27.png,IS27,IS27,diaľnica,no
+IS28.png,IS28,IS28,rýchlostná cesta,no
+IS29.png,IS29,IS29,cesta I. triedy,no
+IS30.png,IS30,IS30,cesta II. triedy,no
+IS31.png,IS31,IS31,medzinárodná trasa,no
+IS32a.png,IS32a,IS32a,kilometrovník,no
+IS32b.png,IS32b,IS32b,kilometrovník,no
+IS32c.png,IS32c,IS32c,kilometrovník,no
+IS33.png,IS33,IS33,hranica kraja,no
+IS34.png,IS34,IS34,hranica okresu,no
+IS35.png,IS35,IS35,iný názov,no
+IS36a.png,IS36a,IS36a,obec,no
+IS36b.png,IS36b,IS36b,koniec obce,no
+IS36c.png,IS36c,IS36c,miestna časť obce,no
+IS36d.png,IS36d,IS36d,koniec miestnej časti obce,no
+IS37a.png,IS37a,IS37a,označenie začiatku obce v jazyku maďarskej menšiny,no
+IS37b.png,IS37b,IS37b,označenie koniec obce v jazyku maďarskej menšiny,no
+IS38.png,IS38,IS38,hraničný priechod,no
+IS39.png,IS39,IS39,hranica štátu,n
+IS40a.svg,IS40a,IS40a,Smerová tabuľa pre cyklistov (s jedným cieľom),n
+IS40b.svg,IS40b,IS40b,Smerová tabuľa pre cyklistov (s dvoma cieľmi),n
+IS40c.svg,IS40c,IS40c,Smerová tabuľa pre cyklistov (s jedným cieľom),n
+IS40d.svg,IS40d,IS40d,Smerová tabuľa pre cyklistov (s dvoma cieľmi),n
+IS40e.svg,IS40e,IS40e,Návesť pred križovatkou pre cyklistov,n
+IS40f.svg,IS40f,IS40f,Smerová tabuľa pre cyklistov,n
+IS40g.svg,IS40g,IS40g,Smerová tabuľa pre cyklistov,n
+IS40h.svg,IS40h,IS40h,Smerová tabuľa pre cyklistov,n
+IS40i.svg,IS40i,IS40i,Koniec cyklistickej trasy,no
+E1.svg,E1,E1,Počet,yes
+E2.svg,E2,E2,Vzdialenosť,yes
+E3.svg,E3,E3,Vzdialenosť,yes
+E4.svg,E4,E4,Dĺžka úseku alebo platnosti,yes
+E5a.svg,E5a,E5a,Úsek platnosti,yes
+E5b.svg,E5b,E5b,Úsek platnosti,yes
+E6.svg,E6,E6,Celková hmotnosť,yes
+E7.svg,E7,E7,Smerová šípka,yes
+E8a.svg,E8a,E8a,Začiatok úseku platnosti ,yes
+E8b.svg,E8b,E8b,Priebeh úseku platnosti,yes
+E8c.svg,E8c,E8c,Koniec úseku platnosti,yes
+E9.svg,E9,E9,Nepriaznivé poveternostné podmienky,yes
+E10.svg,E10,E10,Druh vozidla,yes
+E11.svg,E11,E11,Tvar kríženia cesty so železničnou dráhou ,yes
+E12.svg,E12,E12,Dodatková tabuľka s textom ,yes
+E13.svg,E13,E13,Dodatková tabuľka pre vyhradené parkovanie,yes
+E14.svg,E14,E14,Kategória tunela,yes
+E15.svg,E15,E15,Dodatková tabuľka na označenie vyhradeného parkovacieho miesta pre osobu so zdravotným postihnutím,ye
+E16a.svg,E16a,E16a,Povolený smer jazdy cyklistov,n
+E16b.svg,E16b,E16b,Jazda cyklistov v protismere povolená,n
+E16c.svg,E16c,E16c,Jazda cyklistov v oboch smeroch povolená,n
+E16d.svg,E16d,E16d,Priečna jazda cyklistov,no
+II1a.svg,II1a,II1a,Telefón núdzového volania,no
+II1b.svg,II1b,II1b,Núdzové volanie,no
+II2.svg,II2,II2,Telefón,no
+II3.svg,II3,II3,Hasiaci prístroj ,no
+II4.svg,II4,II4,Prvá pomoc ,no
+II5.svg,II5,II5,Nemocnica ,no
+II6a.svg,II6a,II6a,Informácie,no
+II6b.svg,II6b,II6b,Rádio (vzor)  ,no
+II7a.svg,II7a,II7a,Zastávka autobusu ,no
+II7b.svg,II7b,II7b,Zastávka trolejbusu ,no
+II7c.svg,II7c,II7c,Zastávka električky,no
+II8a.svg,II8a,II8a,Čerpacia stanica ,no
+II8b.svg,II8b,II8b,Čerpacia stanica skvapalneného ropného plynu (LPG)  ,no
+II8c.svg,II8c,II8c,Čerpacia stanica stlačeného prírodného plynu (CNG),no
+II9.svg,II9,II9,Opraváreň,no
+II10.svg,II10,II10,Hotel alebo motel ,no
+II11.svg,II11,II11,Reštaurácia ,no
+II12.svg,II12,II12,Občerstvenie ,no
+II13.svg,II13,II13,WC,no
+II14.svg,II14,II14,Odpočívadlo ,no
+II15a.svg,II15a,II15a,Táborisko pre stany ,no
+II15b.svg,II15b,II15b,Táborisko pre obytné prívesy,no
+II15c.svg,II15c,II15c,Táborisko pre stany a obytné prívesy,no
+II16.svg,II16,II16,Pláž alebo kúpalisko,no
+II17a.svg,II17a,II17a,Lyžiarsky vlek,no
+II17b.svg,II17b,II17b,Sedačková lanovka,no
+II17c.svg,II17c,II17c,Kabínková lanovka,no
+II18a.svg,II18a,II18a,Odpočívadlo s objektmi služieb (vzor),no
+II18b.svg,II18b,II18b,Odpočívadlo s objektmi služieb (vzor),no
+II18c.svg,II18c,II18c,Odpočívadlo s objektmi služieb (vzor),no
+II19a.svg,II19a,II19a,Núdzový východ,no
+II19b.svg,II19b,II19b,Núdzový východ,no
+II20a.svg,II20a,II20a,Úniková cesta (vzor),no
+II20b.svg,II20b,II20b,Úniková cesta (vzor),no
+II20c.svg,II20c,II20c,Úniková cesta (vzor),no
+Z9.svg,Z9,Z9,Ukazovateľ smeru a sily bočného vetra,no
+Z10.svg,Z10,Z10,Varovná tabuľa,no
+Z11a.svg,Z11a,Z11a,Elektronické panely na premenné značky,no
+Z11a_alt.svg,Z11a_alt,Z11a_alt,Elektronické panely na premenné značky,no
+Z11a_alt2.svg,Z11a_alt2,Z11a_alt2,Elektronické panely na premenné značky,no
+Z11a_alt3.svg,Z11a_alt3,Z11a_alt3,Elektronické panely na premenné značky,no
+Z11b.svg,Z11b,Z11b,Elektromechanické panely na premenné značky,no
+Z11b_alt.svg,Z11b_alt,Z11b_alt,Elektromechanické panely na premenné značky,no
+Z11b_alt2.svg,Z11b_alt2,Z11b_alt2,Elektromechanické panely na premenné značky,no
+Z11b_alt3.svg,Z11b_alt3,Z11b_alt3,Elektromechanické panely na premenné značky,no
+Z12.svg,Z12,Z12,Elektronické panely na premenné prevádzkové informácie,no
+Z12_alt.svg,Z12_alt,Z12_alt,Elektronické panely na premenné prevádzkové informácie,no
+Z12_alt2.svg,Z12_alt2,Z12_alt2,Elektronické panely na premenné prevádzkové informácie,no
+V5b.svg,V5b,V5b,Priečna súvislá čiara so symbolom “Daj prednos v jazde!“,no
+V5c.svg,V5c,V5c,Priečna súvislá čiara  s nápisom “STOP“,no
+V6a.svg,V6a,V6a,Priechod pre chodcov,no
+V6b.svg,V6b,V6b,Priechod pre chodcov s vodiacim pásom pre nevidiacich,no
+V7.svg,V7,V7,Priechod pre cyklistov,no
+V10a.svg,V10a,V10a,Parkovacie miesta s kolmým státím,no
+V10b.svg,V10b,V10b,Parkovacie miesta so šikmým státím,no
+V10c.svg,V10c,V10c,Parkovacie miesta s pozdĺžným státím,no
+V10d.svg,V10d,V10d,Parkovacie miesta s vyhradeným státím,no
+V10e.svg,V10e,V10e,Stanovište TAXI,no
+V11a.svg,V11a,V11a,Zastávka autobusu::coma:: trolejbusu a električky,no
+V12a.svg,V12a,V12a,Žltá kľukatá čiara,no
+V12b.svg,V12b,V12b,Žltá súvislá čiara,no
+V12c.svg,V12c,V12c,Žltá prerušovaná čiara,no
+V15.svg,V15,V15,Bezpečná vzdialenosť,no
+V16.svg,V16,V16,Optická psychologická brzda,no
+V17.svg,V17,V17,Hmlové body,n

@@ -1,0 +1,13 @@
+V5b,highway,give_way,,,,,
+V5c,highway,stop,,,,,
+V6a,highway,crossing,,,,,
+V6b,highway,corssing,,,,,
+V6b,tactile_paving,yes,,,,,
+B20,car:distance,::val::,textfield,2,m,70,
+B23,maxwidth,::val::,textfield,2,,,
+B24,maxheight,::val::,textfield,2,,,
+B25,maxweight,::val::,textfield,2,,,
+B26,maxaxleload,::val::,textfield,2,,,
+B37,note,::val::,textfield,5,,,!!FIX ME!! treba lepsi tag ako note
+B38,note,::val::,textfield,5,,,!!FIX ME!! treba lepsi tag ako note
+C16,note,::val::,textfield,5,,,!!FIX ME!! treba lepsi tag ako not
